@@ -14,6 +14,9 @@ jobs:
           fetch-depth: 0
           submodules: 'recursive'
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: ls
+        run: ls content
+
 
       - name: Build Link Index
         uses: jackyzha0/hugo-obsidian@v2.18

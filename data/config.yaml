@@ -1,4 +1,4 @@
-name: Airbyte
+name: Alexandre digital garden
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,15 +11,15 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
 enableGitHubEdit: true
-GitHubLink: https://github.com/airbytehq/glossary/tree/hugo/content
+GitHubLink: https://github.com/erdrix/digital-garden/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  A single place for all data knowledge
+  A single place to network my thought
 page_title:
-  "Data Glossary 🧠"
+  "Alexandre Guitton Digital Garden 🪴"
 links:
   - link_name: Twitter
-    link: https://twitter.com/AirbyteHQ
+    link: https://twitter.com/AlexandreGuitt
   - link_name: Github
-    link: https://github.com/airbytehq
+    link: https://github.com/konpyutaika

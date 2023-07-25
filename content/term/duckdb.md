@@ -16,7 +16,7 @@ It's designed to work as an embedded library, eliminating the network latency yo
 - Ultra-fast analytical use-case locally. E.g., the Taxi example includes a 10 Year, 1.5 Billion row Taxi data example that still works on a laptop. See benchmarks below. 
 - It can be used as an SQL wrapper with zero copies (on top of parquets in S3). 
 - Bring your **data to the users** instead of having big roundtrips and latency by doing REST calls. Instead, you can put data inside the client. You can do 60 frames per second as data is where the query is.
-- DuckDB on Kubernetes for a zero-copy layer to read S3 in the [Data Lake](https://glossary.airbyte.com/term/data-lake)! Inspired by [this](https://twitter.com/Ubunta/status/1584907743391272961) Tweet. The cheapest and fastest option to get started.
+- DuckDB on Kubernetes for a zero-copy layer to read S3 in the [Data Lake](https://digital-garden.erdrix.konpyutaika.com/term/data-lake)! Inspired by [this](https://twitter.com/Ubunta/status/1584907743391272961) Tweet. The cheapest and fastest option to get started.
 
 Check out [Rill Data](https://www.rilldata.com/), a [BI tool](term/business%20intelligence%20tools.md) that delivers sub-second interactivity because it’s backed by DuckDB (and [Druid](Apache%20Druid) for enterprise-grade cloud services).
 

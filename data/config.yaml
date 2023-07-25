@@ -11,7 +11,7 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
 enableGitHubEdit: true
-GitHubLink: https://github.com/erdrix/digital-garden/tree/hugo/content
+GitHubLink: https://github.com/erdrix/digital-garden-git/tree/main
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:

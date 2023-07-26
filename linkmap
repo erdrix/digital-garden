@@ -1,7 +1,13 @@
+/index.html /
+/thoughts/Kubernetes/index.{html} /thoughts/Kubernetes/
+/thoughts/bag-of-seeds/index.{html} /thoughts/bag-of-seeds/
+/thoughts/github-actions/index.{html} /thoughts/github-actions/
+/thoughts/projects/index.{html} /thoughts/projects/
+/thoughts/kubernetes-operator/index.{html} /thoughts/kubernetes-operator/
 /private/doctolib/code/.gitkeep/index.{html} /private/doctolib/code/.gitkeep/
 /private/doctolib/meets/.gitkeep/index.{html} /private/doctolib/meets/.gitkeep/
 /private/doctolib/scoping/.gitkeep/index.{html} /private/doctolib/scoping/.gitkeep/
 /private/doctolib/term/.gitkeep/index.{html} /private/doctolib/term/.gitkeep/
-/term/github-actions/index.{html} /term/github-actions/
-/index.html /
-/code/how-to-access-private-repositories-from-GA/index.{html} /code/how-to-access-private-repositories-from-GA/
+/thoughts/Apache-NiFi/index.{html} /thoughts/Apache-NiFi/
+/thoughts/NiFiKop/index.{html} /thoughts/NiFiKop/
+/thoughts/how-to-access-private-repositories-from-GA/index.{html} /thoughts/how-to-access-private-repositories-from-GA/

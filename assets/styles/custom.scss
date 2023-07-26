@@ -1,27 +1,44 @@
 // Add your own CSS here!
 :root {
     --light: #FFF;
-    --dark: #1A194D;
-    --secondary: #433BFB;
-    --tertiary: #FF6A4D;
-    --visited: #615EFF;
-    --primary: #615EFF;
-    --gray: #1A194D; //#4e4e4e;
-    --lightgray: #E8E8ED;
-    --outlinegray: #D9D9E0;
+    --dark: #19280e;
+    --secondary: #3eb172;
+    --visited: #60c092;
+    --tertiary: #d3ad3e;
+    --primary: #60c092;
+    --gray: #14210b; //#4e4e4e;
+    --lightgray: #93c6b6;
+    --outlinegray: #2d7036;
+
+    //--secondary: #5effa6 ;
+    //--tertiary: #FF6A4D;
+    //--visited: #615EFF;
+    //--primary: #615EFF;
+    //--gray: #1A194D; //#4e4e4e;
+    //--lightgray: #E8E8ED;
+    //--outlinegray: #D9D9E0;
     --million-progress-bar-color: var(--secondary);
     --callout-info-accent: #67DAE1 !important;
 }
 
 [saved-theme="dark"] {
-    --light: #0A0A23 !important;
+    --light: #0a1523 !important;
     --dark: #fff !important;
-    --secondary: #615EFF !important; //#625eff !important; // #ff6a4d !important;
-    --visited: #7F7EFF !important;
-    --tertiary: #FF6A4D !important;
-    --primary: #7F7EFF !important;
+    --secondary: #5effa6 !important;
+    --visited: #7effc2 !important;
+    --tertiary: #ffd24d !important;
+    --primary: #7effc2 !important;
     --gray: #fff !important;
-    --lightgray: #1A194D !important;
-    --outlinegray: #2D3270 !important;
+    --lightgray: #194d3d !important;
+    --outlinegray: #2d7036 !important;
+    //--light: #0A0A23 !important;
+    //--dark: #fff !important;
+    //--secondary: #615EFF !important; //#625eff !important; // #ff6a4d !important;
+    //--visited: #7F7EFF !important;
+    //--tertiary: #FF6A4D !important;
+    //--primary: #7F7EFF !important;
+    //--gray: #fff !important;
+    //--lightgray: #1A194D !important;
+    //--outlinegray: #2D3270 !important;
     --callout-info-accent: #00A5B5 !important;
 }
